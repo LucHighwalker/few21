@@ -1,0 +1,19 @@
+{
+  "name": "jsstringslib",
+  "version": "1.0.0",
+  "description": "A class exercise, disregard this.",
+  "main": "strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucHighwalker/few21.git"
+  },
+  "author": "Luc Highwalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucHighwalker/few21/issues"
+  },
+  "homepage": "https://github.com/LucHighwalker/few21#readme"
+}
