@@ -1,6 +1,6 @@
 {
   "name": "jsstringslib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A class exercise, disregard this.",
   "main": "strings.js",
   "scripts": {
