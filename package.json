@@ -4,7 +4,8 @@
   "description": "A class exercise, disregard this.",
   "main": "strings.js",
   "scripts": {
-    "test": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests",
+    "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
