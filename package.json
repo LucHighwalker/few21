@@ -18,9 +18,7 @@
   },
   "homepage": "https://github.com/LucHighwalker/few21#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
-  },
-  "dependencies": {
+    "jest": "^24.8.0",
     "coveralls": "^3.0.5"
   }
 }
